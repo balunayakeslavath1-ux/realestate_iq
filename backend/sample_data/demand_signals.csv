@@ -1,0 +1,145 @@
+locality_id,observation_date,signal_type,signal_value,source,sample_size,note
+1,2026-05-01,buyer_inquiries,60.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+1,2026-05-01,search_engagement,56.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+1,2026-05-01,demo_listing_engagement_index,58.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+1,2026-06-01,buyer_inquiries,60.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+1,2026-06-01,search_engagement,56.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+1,2026-06-01,demo_listing_engagement_index,58.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+1,2026-07-01,buyer_inquiries,60.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+1,2026-07-01,search_engagement,56.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+1,2026-07-01,demo_listing_engagement_index,58.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+1,2026-08-01,buyer_inquiries,60.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+1,2026-08-01,search_engagement,56.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+1,2026-08-01,demo_listing_engagement_index,58.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+1,2026-09-01,buyer_inquiries,60.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+1,2026-09-01,search_engagement,56.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+1,2026-09-01,demo_listing_engagement_index,58.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+1,2026-10-01,buyer_inquiries,60.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+1,2026-10-01,search_engagement,56.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+1,2026-10-01,demo_listing_engagement_index,58.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+2,2026-05-01,buyer_inquiries,64.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+2,2026-05-01,search_engagement,60.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+2,2026-05-01,demo_listing_engagement_index,62.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+2,2026-06-01,buyer_inquiries,64.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+2,2026-06-01,search_engagement,60.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+2,2026-06-01,demo_listing_engagement_index,62.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+2,2026-07-01,buyer_inquiries,64.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+2,2026-07-01,search_engagement,60.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+2,2026-07-01,demo_listing_engagement_index,62.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+2,2026-08-01,buyer_inquiries,64.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+2,2026-08-01,search_engagement,60.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+2,2026-08-01,demo_listing_engagement_index,62.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+2,2026-09-01,buyer_inquiries,64.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+2,2026-09-01,search_engagement,60.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+2,2026-09-01,demo_listing_engagement_index,62.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+2,2026-10-01,buyer_inquiries,64.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+2,2026-10-01,search_engagement,60.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+2,2026-10-01,demo_listing_engagement_index,62.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+3,2026-05-01,buyer_inquiries,86.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+3,2026-05-01,search_engagement,82.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+3,2026-05-01,demo_listing_engagement_index,84.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+3,2026-06-01,buyer_inquiries,86.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+3,2026-06-01,search_engagement,82.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+3,2026-06-01,demo_listing_engagement_index,84.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+3,2026-07-01,buyer_inquiries,86.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+3,2026-07-01,search_engagement,82.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+3,2026-07-01,demo_listing_engagement_index,84.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+3,2026-08-01,buyer_inquiries,86.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+3,2026-08-01,search_engagement,82.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+3,2026-08-01,demo_listing_engagement_index,84.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+3,2026-09-01,buyer_inquiries,86.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+3,2026-09-01,search_engagement,82.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+3,2026-09-01,demo_listing_engagement_index,84.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+3,2026-10-01,buyer_inquiries,86.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+3,2026-10-01,search_engagement,82.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+3,2026-10-01,demo_listing_engagement_index,84.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+4,2026-05-01,buyer_inquiries,78.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+4,2026-05-01,search_engagement,74.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+4,2026-05-01,demo_listing_engagement_index,76.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+4,2026-06-01,buyer_inquiries,78.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+4,2026-06-01,search_engagement,74.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+4,2026-06-01,demo_listing_engagement_index,76.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+4,2026-07-01,buyer_inquiries,78.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+4,2026-07-01,search_engagement,74.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+4,2026-07-01,demo_listing_engagement_index,76.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+4,2026-08-01,buyer_inquiries,78.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+4,2026-08-01,search_engagement,74.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+4,2026-08-01,demo_listing_engagement_index,76.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+4,2026-09-01,buyer_inquiries,78.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+4,2026-09-01,search_engagement,74.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+4,2026-09-01,demo_listing_engagement_index,76.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+4,2026-10-01,buyer_inquiries,78.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+4,2026-10-01,search_engagement,74.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+4,2026-10-01,demo_listing_engagement_index,76.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+5,2026-05-01,buyer_inquiries,50.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+5,2026-05-01,search_engagement,46.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+5,2026-05-01,demo_listing_engagement_index,48.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+5,2026-06-01,buyer_inquiries,50.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+5,2026-06-01,search_engagement,46.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+5,2026-06-01,demo_listing_engagement_index,48.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+5,2026-07-01,buyer_inquiries,50.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+5,2026-07-01,search_engagement,46.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+5,2026-07-01,demo_listing_engagement_index,48.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+5,2026-08-01,buyer_inquiries,50.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+5,2026-08-01,search_engagement,46.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+5,2026-08-01,demo_listing_engagement_index,48.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+5,2026-09-01,buyer_inquiries,50.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+5,2026-09-01,search_engagement,46.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+5,2026-09-01,demo_listing_engagement_index,48.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+5,2026-10-01,buyer_inquiries,50.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+5,2026-10-01,search_engagement,46.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+5,2026-10-01,demo_listing_engagement_index,48.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+6,2026-05-01,buyer_inquiries,94.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+6,2026-05-01,search_engagement,90.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+6,2026-05-01,demo_listing_engagement_index,92.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+6,2026-06-01,buyer_inquiries,94.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+6,2026-06-01,search_engagement,90.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+6,2026-06-01,demo_listing_engagement_index,92.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+6,2026-07-01,buyer_inquiries,94.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+6,2026-07-01,search_engagement,90.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+6,2026-07-01,demo_listing_engagement_index,92.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+6,2026-08-01,buyer_inquiries,94.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+6,2026-08-01,search_engagement,90.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+6,2026-08-01,demo_listing_engagement_index,92.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+6,2026-09-01,buyer_inquiries,94.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+6,2026-09-01,search_engagement,90.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+6,2026-09-01,demo_listing_engagement_index,92.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+6,2026-10-01,buyer_inquiries,94.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+6,2026-10-01,search_engagement,90.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+6,2026-10-01,demo_listing_engagement_index,92.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+7,2026-05-01,buyer_inquiries,88.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+7,2026-05-01,search_engagement,84.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+7,2026-05-01,demo_listing_engagement_index,86.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+7,2026-06-01,buyer_inquiries,88.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+7,2026-06-01,search_engagement,84.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+7,2026-06-01,demo_listing_engagement_index,86.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+7,2026-07-01,buyer_inquiries,88.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+7,2026-07-01,search_engagement,84.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+7,2026-07-01,demo_listing_engagement_index,86.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+7,2026-08-01,buyer_inquiries,88.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+7,2026-08-01,search_engagement,84.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+7,2026-08-01,demo_listing_engagement_index,86.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+7,2026-09-01,buyer_inquiries,88.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+7,2026-09-01,search_engagement,84.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+7,2026-09-01,demo_listing_engagement_index,86.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+7,2026-10-01,buyer_inquiries,88.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+7,2026-10-01,search_engagement,84.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+7,2026-10-01,demo_listing_engagement_index,86.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+8,2026-05-01,buyer_inquiries,74.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+8,2026-05-01,search_engagement,70.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+8,2026-05-01,demo_listing_engagement_index,72.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+8,2026-06-01,buyer_inquiries,74.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+8,2026-06-01,search_engagement,70.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+8,2026-06-01,demo_listing_engagement_index,72.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+8,2026-07-01,buyer_inquiries,74.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+8,2026-07-01,search_engagement,70.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+8,2026-07-01,demo_listing_engagement_index,72.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+8,2026-08-01,buyer_inquiries,74.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+8,2026-08-01,search_engagement,70.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+8,2026-08-01,demo_listing_engagement_index,72.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+8,2026-09-01,buyer_inquiries,74.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+8,2026-09-01,search_engagement,70.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+8,2026-09-01,demo_listing_engagement_index,72.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.
+8,2026-10-01,buyer_inquiries,74.5,SIMULATED DEMO DATA,85,Verified inquiry simulation across digital property portals
+8,2026-10-01,search_engagement,70.5,SIMULATED DEMO DATA,120,Search index intensity in micro-market
+8,2026-10-01,demo_listing_engagement_index,72.0,SIMULATED DEMO DATA,95,Illustrative only; not actual registered deed transactions.

@@ -1,0 +1,6 @@
+title,locality_name,property_type,listing_type,price,area_sqft,bedrooms,listing_date,external_id,latitude,longitude,verification_status,source
+Hilltop Luxury 4BHK Villa,Gachibowli,villa,sale,38500000,3800,4,2025-10-01,PROP-TEST-001,17.4435,78.3522,Verified,Hackathon Import Test
+Affordable 2BHK Near Metro,Miyapur,apartment,rent,22000,1150,2,2025-10-02,PROP-TEST-002,17.4975,78.3630,Verified,Hackathon Import Test
+Prime Commercial Layout Plot,Kukatpally,plot,sale,16000000,2400,,2025-10-03,PROP-TEST-003,17.4860,78.4150,Agent Posted,Hackathon Import Test
+Modern 3BHK Gated Flat,Kondapur,apartment,sale,12500000,1750,3,2025-10-04,PROP-TEST-004,17.4720,78.3590,Verified,Hackathon Import Test
+Duplex Independent House,Banjara Hills,independent house,sale,55000000,4200,5,2025-10-05,PROP-TEST-005,17.4170,78.4370,Verified,Hackathon Import Test

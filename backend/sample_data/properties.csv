@@ -1,0 +1,56 @@
+locality_id,property_id,title,property_type,listing_type,price_inr,area_sqft,bedrooms,age,listing_date,status,latitude,longitude,source,verification_status,price_per_sqft_inr,currency,price_unit_note
+1,PS-1001,2 BHK apartment near Miyapur Metro,apartment,sale,6800000,1120,2.0,3.0,2026-09-20,active,17.4974,78.3548,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,6071.43,INR,total asking price in INR
+1,PS-1002,3 BHK family apartment in Miyapur,apartment,sale,9200000,1540,3.0,1.5,2026-09-14,active,17.4935,78.359,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,5974.03,INR,total asking price in INR
+1,PS-1003,2 BHK apartment for rent,apartment,rent,26000,1050,2.0,4.0,2026-10-01,active,17.499,78.3582,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,24.76,INR,monthly rent in INR
+1,PS-1004,Residential plot in Miyapur,plot,sale,7800000,1200,,0.0,2026-08-29,active,17.4908,78.361,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,6500.0,INR,total asking price in INR
+1,PS-1005,3 BHK apartment with parking,apartment,sale,10500000,1680,3.0,2.0,2026-09-25,active,17.501,78.3521,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,6250.0,INR,total asking price in INR
+1,PS-1006,4 BHK Independent Villa in Miyapur,villa,sale,19500000,2800,4.0,2.0,2026-09-18,active,17.495,78.351,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,6964.29,INR,total asking price in INR
+1,PS-1007,2 BHK gated community flat,apartment,sale,7400000,1180,2.0,5.0,2026-09-10,active,17.498,78.357,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,6271.19,INR,total asking price in INR
+2,PS-2001,2 BHK apartment in Kukatpally,apartment,sale,7200000,1180,2.0,4.0,2026-09-17,active,17.4855,78.4112,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,6101.69,INR,total asking price in INR
+2,PS-2002,3 BHK apartment near shopping area,apartment,sale,11200000,1650,3.0,2.5,2026-09-23,active,17.4812,78.417,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,6787.88,INR,total asking price in INR
+2,PS-2003,1 BHK apartment for rent,apartment,rent,18000,680,1.0,5.0,2026-10-02,active,17.4881,78.4145,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,26.47,INR,monthly rent in INR
+2,PS-2004,Independent house in Kukatpally,independent_house,sale,14500000,1900,3.0,7.0,2026-08-18,active,17.4788,78.409,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,7631.58,INR,total asking price in INR
+2,PS-2005,"2 BHK apartment, ready to move",apartment,sale,8100000,1220,2.0,1.0,2026-09-30,active,17.487,78.4201,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,6639.34,INR,total asking price in INR
+2,PS-2006,3 BHK luxury flat near KPHB,apartment,sale,12500000,1750,3.0,3.0,2026-09-21,active,17.489,78.412,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,7142.86,INR,total asking price in INR
+3,PS-3001,2 BHK apartment in Gachibowli,apartment,sale,11500000,1250,2.0,2.0,2026-09-22,active,17.442,78.347,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,9200.0,INR,total asking price in INR
+3,PS-3002,3 BHK premium apartment,apartment,sale,17500000,1780,3.0,1.5,2026-09-28,active,17.4372,78.3521,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,9831.46,INR,total asking price in INR
+3,PS-3003,2 BHK apartment for rent,apartment,rent,38000,1180,2.0,3.0,2026-10-03,active,17.444,78.3452,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,32.2,INR,monthly rent in INR
+3,PS-3004,Luxury villa in Gachibowli,villa,sale,34500000,2850,4.0,1.0,2026-08-12,active,17.4335,78.3565,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,12105.26,INR,total asking price in INR
+3,PS-3005,3 BHK apartment with balcony,apartment,sale,16200000,1710,3.0,4.0,2026-09-11,active,17.446,78.3418,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,9473.68,INR,total asking price in INR
+3,PS-3006,4 BHK Sky Villa Gachibowli,villa,sale,42000000,3500,4.0,0.5,2026-09-15,active,17.439,78.349,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,12000.0,INR,total asking price in INR
+3,PS-3007,3 BHK high-rise near Financial District,apartment,sale,18800000,1850,3.0,2.0,2026-09-05,active,17.441,78.344,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,10162.16,INR,total asking price in INR
+4,PS-4001,2 BHK apartment in Kondapur,apartment,sale,9800000,1150,2.0,3.0,2026-09-18,active,17.4622,78.3544,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,8521.74,INR,total asking price in INR
+4,PS-4002,3 BHK apartment near schools,apartment,sale,14500000,1650,3.0,2.0,2026-09-27,active,17.4581,78.36,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,8787.88,INR,total asking price in INR
+4,PS-4003,2 BHK apartment for rent,apartment,rent,32000,1100,2.0,4.0,2026-10-04,active,17.464,78.352,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,29.09,INR,monthly rent in INR
+4,PS-4004,Independent house in Kondapur,independent_house,sale,19500000,2100,3.0,6.0,2026-08-31,active,17.455,78.365,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,9285.71,INR,total asking price in INR
+4,PS-4005,2 BHK apartment with amenities,apartment,sale,10200000,1210,2.0,1.5,2026-09-29,active,17.466,78.3592,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,8429.75,INR,total asking price in INR
+4,PS-4006,4 BHK Duplex Villa Kondapur,villa,sale,29000000,3100,4.0,2.0,2026-09-12,active,17.461,78.358,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,9354.84,INR,total asking price in INR
+4,PS-4007,3 BHK modern condo near Botanical Garden,apartment,sale,15800000,1750,3.0,1.0,2026-09-22,active,17.459,78.355,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,9028.57,INR,total asking price in INR
+5,PS-5001,2 BHK apartment in Uppal,apartment,sale,5900000,1120,2.0,5.0,2026-09-16,active,17.4065,78.5572,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,5267.86,INR,total asking price in INR
+5,PS-5002,3 BHK apartment in Uppal,apartment,sale,7800000,1460,3.0,3.0,2026-09-24,active,17.4028,78.563,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,5342.47,INR,total asking price in INR
+5,PS-5003,1 BHK apartment for rent,apartment,rent,14000,650,1.0,6.0,2026-10-05,active,17.409,78.5551,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,21.54,INR,monthly rent in INR
+5,PS-5004,Residential plot in Uppal,plot,sale,6200000,1200,,0.0,2026-08-20,active,17.3998,78.566,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,5166.67,INR,total asking price in INR
+5,PS-5005,Independent house in Uppal,independent_house,sale,9800000,1700,3.0,8.0,2026-09-10,active,17.404,78.56,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,5764.71,INR,total asking price in INR
+6,PS-6001,3 BHK Ultra Luxury High-Rise Kokapet,apartment,sale,24500000,2100,3.0,1.0,2026-09-25,active,17.3855,78.3245,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,11666.67,INR,total asking price in INR
+6,PS-6002,4 BHK Luxury Villa in Neopolis Kokapet,villa,sale,52000000,3800,4.0,0.5,2026-09-22,active,17.382,78.328,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,13684.21,INR,total asking price in INR
+6,PS-6003,3 BHK Modern Flat near Golden Mile,apartment,sale,21500000,1950,3.0,2.0,2026-09-19,active,17.388,78.322,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,11025.64,INR,total asking price in INR
+6,PS-6004,4 BHK Sky Mansion overlooking Lake,apartment,sale,38500000,3200,4.0,1.0,2026-09-28,active,17.386,78.326,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,12031.25,INR,total asking price in INR
+6,PS-6005,3 BHK apartment for rent in Kokapet,apartment,rent,65000,2000,3.0,2.0,2026-10-01,active,17.384,78.323,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,32.5,INR,monthly rent in INR
+6,PS-6006,5 BHK Signature Gated Villa Kokapet,villa,sale,68000000,4600,5.0,1.5,2026-09-12,active,17.383,78.329,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,14782.61,INR,total asking price in INR
+6,PS-6007,2 BHK Executive Suite Kokapet,apartment,sale,15500000,1350,2.0,1.0,2026-09-29,active,17.387,78.321,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,11481.48,INR,total asking price in INR
+7,PS-7001,3 BHK Gated Community Flat Tellapur,apartment,sale,12800000,1600,3.0,1.0,2026-09-21,active,17.459,78.292,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,8000.0,INR,total asking price in INR
+7,PS-7002,4 BHK Triplex Villa in Tellapur,villa,sale,29500000,3200,4.0,1.5,2026-09-26,active,17.457,78.289,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,9218.75,INR,total asking price in INR
+7,PS-7003,2 BHK Modern Apartment Tellapur,apartment,sale,8900000,1180,2.0,2.5,2026-09-15,active,17.461,78.294,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,7542.37,INR,total asking price in INR
+7,PS-7004,3 BHK Garden View Villa Tellapur,villa,sale,24800000,2750,3.0,2.0,2026-09-18,active,17.456,78.2905,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,9018.18,INR,total asking price in INR
+7,PS-7005,2 BHK flat for rent in Tellapur,apartment,rent,28000,1150,2.0,3.0,2026-10-02,active,17.46,78.293,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,24.35,INR,monthly rent in INR
+7,PS-7006,4 BHK Luxury Villa with Private Pool,villa,sale,36000000,3600,4.0,0.5,2026-09-27,active,17.455,78.288,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,10000.0,INR,total asking price in INR
+8,PS-8001,3 BHK Apartment near Lanco Hills,apartment,sale,13200000,1650,3.0,3.0,2026-09-23,active,17.403,78.385,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,8000.0,INR,total asking price in INR
+8,PS-8002,2 BHK Ready-to-move Flat Manikonda,apartment,sale,9100000,1200,2.0,4.0,2026-09-19,active,17.401,78.382,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,7583.33,INR,total asking price in INR
+8,PS-8003,Independent House in Manikonda,independent_house,sale,17500000,2200,4.0,5.0,2026-08-25,active,17.4045,78.387,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,7954.55,INR,total asking price in INR
+8,PS-8004,3 BHK Gated Flat with Clubhouse,apartment,sale,14200000,1720,3.0,2.0,2026-09-24,active,17.4025,78.3835,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,8255.81,INR,total asking price in INR
+8,PS-8005,2 BHK Rental Flat Manikonda,apartment,rent,29000,1100,2.0,3.5,2026-10-03,active,17.4015,78.3845,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,26.36,INR,monthly rent in INR
+8,PS-8006,4 BHK Luxury Villa in Puppalguda-Manikonda,villa,sale,31000000,3100,4.0,1.5,2026-09-14,active,17.406,78.386,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,10000.0,INR,total asking price in INR
+3,PS-9001,Extremely Suspicious Low Price Villa Typo,villa,sale,12000,2800,4.0,1.0,2026-10-05,active,17.435,78.35,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,4.29,INR,total asking price in INR
+6,PS-9002,Inflated Outlier Pricing Listing,apartment,sale,950000000,1400,2.0,1.0,2026-10-04,active,17.385,78.325,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,678571.43,INR,total asking price in INR
+1,PS-9003,Missing Bedrooms Incomplete Record,apartment,sale,7000000,1100,,2.0,2026-10-02,active,,,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,6363.64,INR,total asking price in INR
+1,PS-1001-DUP,2 BHK apartment near Miyapur Metro,apartment,sale,6800000,1120,2.0,3.0,2026-09-20,active,17.4974,78.3548,Synthetic demo dataset,SIMULATED — NOT A REAL LISTING,6071.43,INR,total asking price in INR

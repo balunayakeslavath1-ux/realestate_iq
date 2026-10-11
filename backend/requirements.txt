@@ -1,0 +1,11 @@
+fastapi>=0.95.0,<0.100.0
+pydantic>=1.10.0,<2.0.0
+uvicorn>=0.20.0
+sqlalchemy>=2.0.0
+pandas>=2.0.0
+scikit-learn>=1.4.0
+catboost>=1.2.0
+statsmodels>=0.14.0
+python-multipart>=0.0.9
+httpx>=0.24.0
+pytest>=8.0.0

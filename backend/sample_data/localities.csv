@@ -1,0 +1,9 @@
+locality_id,name,city,state,latitude,longitude,data_status
+1,Miyapur,Hyderabad,Telangana,17.4968,78.356,SIMULATED DEMO
+2,Kukatpally,Hyderabad,Telangana,17.4849,78.4138,SIMULATED DEMO
+3,Gachibowli,Hyderabad,Telangana,17.4401,78.3489,SIMULATED DEMO
+4,Kondapur,Hyderabad,Telangana,17.4604,78.3568,SIMULATED DEMO
+5,Uppal,Hyderabad,Telangana,17.4058,78.5591,SIMULATED DEMO
+6,Kokapet,Hyderabad,Telangana,17.385,78.3253,SIMULATED DEMO
+7,Tellapur,Hyderabad,Telangana,17.458,78.291,SIMULATED DEMO
+8,Manikonda,Hyderabad,Telangana,17.402,78.384,SIMULATED DEMO
